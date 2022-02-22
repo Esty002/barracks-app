@@ -1,0 +1,6 @@
+#!/bin/bash
+echo this greet .sh
+echo "welcome to Barracks"
+echo"this will be a beautifully morning"
+echo date
+echo "life is beautifully"
